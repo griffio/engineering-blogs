@@ -54,6 +54,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Collective Idea http://collectiveidea.com/blog/
 * Confluent http://blog.confluent.io/
 * Coolblue http://devblog.coolblue.nl/
+* Coursera https://tech.coursera.org/
 * Criteo http://engineering.criteolabs.com/
 * DataFox http://eng.datafox.co/
 * DataRank http://engineering.datarank.com/
